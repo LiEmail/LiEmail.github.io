@@ -1,26 +1,15 @@
-# Microdust 微尘
+##说明
 
-This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+此博客 fork 自 [Arzeril](http://azeril.me)，感谢。
 
-## Thanks
+##记忆宫殿
 
-The blog used many tool/service,many thanks to:
+跟惰性思维作斗争，其难而乐无穷也。在此将一些读过的经典&&想要阅读的优秀资料总结一下，留下个比较好的记忆编码方式，算是自己的记忆宫殿。算是对自己的一个监督。
 
-* [Github](https://github.com/), all the data based on;
-* [Git](https://git-scm.com/), blogs and code files version control system;
-* [Jekyll](http://jekyllrb.com/), a static site generator;
-* [Clean Blog Theme](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll), a theme by Start Bootstrap;
-* [Markdown](https://daringfireball.net/projects/markdown/), a beautiful lightweight markup language.
-* [DNSPod](https://www.dnspod.cn/), the DNS service provider who surport the domain name resolution;
-* [Duoshuo](http://duoshuo.com/), a socialization comments plugin.
-* [Google](http://google.com), the one who tell me how to make it.
-* …
+## 总的内容分成三大块
 
-## How To Creat A Jekyll Blog
+1. [如何认识自己](https://github.com/LiEmail/Memory-Palace/blob/master/%E5%A6%82%E4%BD%95%E8%AE%A4%E8%AF%86%E8%87%AA%E5%B7%B1.md) 
 
-[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
+2. [如何认识世界](https://github.com/LiEmail/Memory-Palace/blob/master/%E5%A6%82%E4%BD%95%E8%AE%A4%E8%AF%86%E4%B8%96%E7%95%8C.md)
 
-Build your blog Step by step
-## Just write
-
-Start writing now！
+3. [如何认识技术元素](https://github.com/LiEmail/Memory-Palace/blob/master/%E5%A6%82%E4%BD%95%E8%AE%A4%E8%AF%86%E6%8A%80%E6%9C%AF%E5%85%83%E7%B4%A0.md)
