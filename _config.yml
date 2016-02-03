@@ -1,28 +1,28 @@
 # Site settings
-title: Microdust
+title: LiEmail
 header-img: "img/autumn2.jpg"
-tagline: "吉光片羽"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
+tagline: "记忆宫殿"  
+description: "Li不清楚 模模糊糊 寄情影书"
 baseurl: ""
-url: "http://azeril.me"  
+url: "http://www.shiningemail.com/"  
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "Azeril"
-  email: azeril@live.cn
-  bio: "明朝即長路 惜取此時心"
+  name: "LiEmail"
+  email: shininglm@gmail.com
+  bio: "Li不清的记忆宫殿"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: http://img3.doubanio.com/icon/ul57126455-8.jpg
 favicon: img/favicon.ico
 
-douban_username: Azeril
-twitter_username: Azeril_Lapland  
-github_username: Azeril  
-facebook_username: Azeril_Lapland  
-weibo_username: Azeril  
-zhihu_username: Azeril  
+douban_username: Li不清
+twitter_username: 
+github_username: LiEmail
+facebook_username: Li Miao
+weibo_username: Li不清  
+zhihu_username: 李邈  
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -58,9 +58,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Azeril
+    short_name : LiEmail
   disqus :
-      short_name : Azeril
+      short_name : LiEmail
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
