@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "嘿，你总算找到我啦"
+description: "记忆宫殿的主线"
 header-img: "img/plane.jpg"
 ---
 
