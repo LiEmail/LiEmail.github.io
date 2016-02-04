@@ -17,7 +17,6 @@ description: “技术元素不仅仅包括一些具象的技术（例如汽车�
 # 计算机科学
 
 1. **算法/结构之道**
-
   - [《The Algorithm Design Manual》](http://www.baidu.com/link?url=yaJmAVxiQvclQLxHBEK6uTn0xYV9Yd9wGUOJwxqW6Nfq7mAO75iQjk-Hm2YPRYmwYhrD2gmLL8zll6S5l2iPicqYEE8_SL0Q6OvPDUr3MKeybTyN5h8LclzNcy-ZmkGA) —— 抛开那些术语，算法是怎么被实用的？是怎么被一步步提出来的呢？实用的connection，看大师是如何深入浅出地来解构。那如果不仅仅是有兴趣呢？而是对解决问题有兴趣呢？那你可以一步一步把这种兴趣变成处理实际问题当中自己深刻的经验积累么？该怎么做呢？也许文中的例子和习题可以一步步让你享受到这种过程。
 
   - [《具体数学》](http://book.douban.com/subject/21323941/) —— 虽然是砖头书，但这是因为作者在书中，不光光是介绍了哪一个绝妙推演是什么样的，关键是这些推演间如何进行联想，它们在实际运用中的前因后果是如何的。所以说读起来不可能不感到美妙。 

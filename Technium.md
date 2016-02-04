@@ -14,7 +14,6 @@ header-img: "img/autumn.jpg"
  - [《有限与无限的游戏》](http://book.douban.com/subject/25742296/) —— 当一个历史系教授，利用历史的厚重感，只用了些只言片语，就将世界描述成了一个具有哲学意味的游戏。这，就会给你一种，阅读道德经的感觉。只不过范围不仅限于人性，而更着眼于时间，宇宙。
 
 # 计算机科学
-
 1. **算法/结构之道**
 
   - [《The Algorithm Design Manual》](http://www.baidu.com/link?url=yaJmAVxiQvclQLxHBEK6uTn0xYV9Yd9wGUOJwxqW6Nfq7mAO75iQjk-Hm2YPRYmwYhrD2gmLL8zll6S5l2iPicqYEE8_SL0Q6OvPDUr3MKeybTyN5h8LclzNcy-ZmkGA) —— 抛开那些术语，算法是怎么被实用的？是怎么被一步步提出来的呢？实用的connection，看大师是如何深入浅出地来解构。那如果不仅仅是有兴趣呢？而是对解决问题有兴趣呢？那你可以一步一步把这种兴趣变成处理实际问题当中自己深刻的经验积累么？该怎么做呢？也许文中的例子和习题可以一步步让你享受到这种过程。
@@ -26,7 +25,6 @@ header-img: "img/autumn.jpg"
   - [《编程珠玑》&&《编程珠玑(续)》 ](http://book.douban.com/subject/3227098/) —— 看Jon Bentley以其独有的洞察力和创造力，引导读者理解他在实际编程生涯中遇到的那些问题，并慢慢引导我们去探索解答的过程。
   
   - [台大机器学习课程(基石&&技法) ](https://www.coursera.org/course/ntumlone && https://www.coursera.org/course/ntumltwo) —— 台大老师这门课程相比 Ng的，相对长一点，当然讲的就很充分和细致。有空从头听下来，就会让你对机器学习如何选择不同算法有根本上的认识了。
-
   
 2. **程序语言深入之道**
 
@@ -34,6 +32,5 @@ header-img: "img/autumn.jpg"
 3. **实际开发的名家见解**
 
   - [《黑客与画家》 ](http://book.douban.com/subject/6021440/) —— "我认为，真正世界的关键并非在于它是由成年人组成的，而在于它的庞大规模使得你做的每件事都能产生真正意义上的成果。学校、监狱、上流社会的女士午餐会，都做不到这一点。这些场合的成员都好像关在封闭泡沫之中，所做作为只泡沫内部有影响，对外部没有影响。那么，很自然地，这些场合就会产生野蛮的做法"
-
   
 4. **IT风云史**
