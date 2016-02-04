@@ -2,7 +2,7 @@
 layout: page
 title: "Technium"
 description: "如何认识技术元素"
-header-img: "img/autumn.jpg"
+header-img: "img/alone.jpg"
 ---
 
 # 科技哲学
