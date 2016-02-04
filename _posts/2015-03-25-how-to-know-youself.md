@@ -82,6 +82,8 @@ description: 通过思维、性格的学习让我们学到重要的思维，然�
 	
 	- [缓解眼疲劳](http://www.zhihu.com/question/20925610)
 
+	- [巴氏刷牙法](http://www.guokr.com/post/348576/)
+
 3. **沟通交流**
 	- [《沟通的艺术》](http://book.douban.com/subject/5321463/) —— 五大性格特征：外向与内向、和平与敌对、开放与不开放、神经质与稳定、谨慎与随意
 	
