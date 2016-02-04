@@ -30,7 +30,7 @@ zhihu_username: li-miao-35
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: pygments
+highlighter: rouge
 
 gems: [jekyll-paginate]
 permalink: none
