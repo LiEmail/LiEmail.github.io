@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Yourself"
-description: "如何认识自己"
+title: "World"
+description: "如何认识世界"
 header-img: "img/autumn.jpg"
 ---
 
