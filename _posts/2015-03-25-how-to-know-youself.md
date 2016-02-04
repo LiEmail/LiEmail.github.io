@@ -70,29 +70,24 @@ description: 通过思维、性格的学习让我们学到重要的思维，然�
 
 # 认识自己的生活
 
-1. **时间管理** 
-  其实就时间管理来说，坚持比方法更重要。所以这里分享的书里面可能多多少少提到很多教你如何能比较有效地来坚持的方法（不能光喊口号），所以我觉得在看的时候应该更多的关注这一点上。
-  - [《暗时间》](http://book.douban.com/subject/6709809/) —— 习惯将问题放入大脑的潜意识思考；习惯利用大块时间来完成重要的事情；
+1. **时间管理** —— 其实就时间管理来说，坚持比方法更重要。所以这里分享的书里面可能多多少少提到很多教你如何能比较有效地来坚持的方法（不能光喊口号），所以我觉得在看的时候应该更多的关注这一点上。
+	- [《暗时间》](http://book.douban.com/subject/6709809/) —— 习惯将问题放入大脑的潜意识思考；习惯利用大块时间来完成重要的事情；
 	
-  - [《把时间当朋友》](http://book.douban.com/subject/3609132/) —— 副标题“运用心智，获得解放”更符合全文的内容。PS：那一年李笑来还木有染指比特币，那一年笑来哥还在这本书里写了他丰富的经历。
+	- [《把时间当朋友》](http://book.douban.com/subject/3609132/) —— 副标题“运用心智，获得解放”更符合全文的内容。PS：那一年李笑来还木有染指比特币，那一年笑来哥还在这本书里写了他丰富的经历。
+	
+2. **身体管理** —— 身体管理，合适方式和坚持要行胜于言的多
+	- [《无器械健身》](http://pan.baidu.com/share/link?shareid=849522045&uk=2366144546&fid=1564540366) —— 无器械健身方法的大集合，让健身没有借口
+	
+	- [《麦肯基疗法》](http://www.douban.com/photos/album/42573925/) —— 预防颈椎病
+	
+	- [缓解眼疲劳](http://www.zhihu.com/question/20925610)
 
-2. **身体管理**
-  身体管理，合适方式和坚持要行胜于言的多
-
-  - [《无器械健身》](http://pan.baidu.com/share/link?shareid=849522045&uk=2366144546&fid=1564540366) —— 无器械健身方法的大集合，让健身没有借口
-	
-  - [《麦肯基疗法》](http://www.douban.com/photos/album/42573925/) —— 预防颈椎病
-	
-  - [缓解眼疲劳](http://www.zhihu.com/question/20925610)
-	
 3. **沟通交流**
+	- [《沟通的艺术》](http://book.douban.com/subject/5321463/) —— 五大性格特征：外向与内向、和平与敌对、开放与不开放、神经质与稳定、谨慎与随意
 	
-  - [《沟通的艺术》](http://book.douban.com/subject/5321463/) —— 五大性格特征：外向与内向、和平与敌对、开放与不开放、神经质与稳定、谨慎与随意
-
 4. **演讲方法**
+	- [《乔布斯的魔力演讲》](http://book.douban.com/subject/4860526/) —— 魔力，永远是用最直接的方式唤起人们的共鸣。
 	
-  - [《乔布斯的魔力演讲》](http://book.douban.com/subject/4860526/) —— 魔力，永远是用最直接的方式唤起人们的共鸣。
- 
-  - [《西蒙斯涅克：伟大的领袖如何激励行动》](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=zh-cn) ——你觉得看多少次都能引起你的共鸣和赞叹，就至少该拿多少次来练习                                                你的presentation。
-  
-  - [《TED演讲的秘密》](http://open.163.com/special/openclass/tedtalk.html) —— 如何你喜欢TED，你也希望做到那样，不妨先看下TED的演讲教练是如何解构他看过的上百个TED视频的
+	- [《西蒙斯涅克：伟大的领袖如何激励行动》](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=zh-cn) ——你觉得看多少次都能引起你的共鸣和赞叹，就至少该拿多少次来练习                                                你的presentation。
+	
+	- [《TED演讲的秘密》](http://open.163.com/special/openclass/tedtalk.html) —— 如何你喜欢TED，你也希望做到那样，不妨先看下TED的演讲教练是如何解构他看过的上百个TED视频的
