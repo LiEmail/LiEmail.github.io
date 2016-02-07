@@ -41,9 +41,9 @@ description: 记忆宫殿系列中，关于如何认识世界的解释。
 
 # 社会科学
 1. **经济学** 
-  - [《国富论》](http://book.douban.com/subject/1261560/) —— 理解市场经济的理论基础
-
-  - [《这个时代的无知与傲慢》](http://book.douban.com/subject/11589947/) —— 听索罗斯如何定义他的开放社会框架
+	- [《国富论》](http://book.douban.com/subject/1261560/) —— 理解市场经济的理论基础
+	
+	- [《这个时代的无知与傲慢》](http://book.douban.com/subject/11589947/) —— 听索罗斯如何定义他的开放社会框架
   
 2. **人文**
 	
