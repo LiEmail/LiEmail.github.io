@@ -52,7 +52,7 @@ header-img: "img/autumn.jpg"
 	- [《如何去阅读一本书》](http://www.zhihu.com/question/20631409) —— 经典毋庸置疑。了解阅读的四个层次，如果做得到，或将终生受益。
 	
 	- [如何记忆与学习](http://mindhacks.cn/2009/03/28/effective-learning-and-memorization/)——刘未鹏博客精选，高效思维方式总结出来的内容，足以让你一气呵成地读完而不累。更关键的是，Mind Hacks是一系列思维工具。
-
+	
 4. **批判性思维**
 	
 	- [《学会提问》](http://www.gsm.pku.edu.cn/resource/uploadfiles/docs/20121112/2012111201212121218058.pdf) —— 批判性思维相关的经典书籍，在美国推荐为大学生的必修数目。虽然知识点多，但内容上作者多以错误的真实实例来介绍。看了个大概，适合做一个科普书和素材来源。
