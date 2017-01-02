@@ -27,8 +27,10 @@ header-img: "img/alone.jpg"
 	- [台大机器学习课程(基石&&技法) ](https://www.coursera.org/course/ntumlone && https://www.coursera.org/course/ntumltwo) —— 台大老师这门课程相比 Ng的，相对长一点，当然讲的就很充分和细致。有空从头听下来，就会让你对机器学习如何选择不同算法有根本上的认识了。
  
 2. **程序语言深入之道**
-
-
+	- [《C++ Primer 中文版》 ](https://book.douban.com/subject/1767741/) —— 经典教程。
+	
+	- [《Effective C++ 中文版》 ](https://book.douban.com/subject/1842426/) —— 经典教程。
+	
 3. **实际开发的名家见解**
 	
 	- [《黑客与画家》 ](http://book.douban.com/subject/6021440/) —— "我认为，真正世界的关键并非在于它是由成年人组成的，而在于它的庞大规模使得你做的每件事都能产生真正意义上的成果。学校、监狱、上流社会的女士午餐会，都做不到这一点。这些场合的成员都好像关在封闭泡沫之中，所做作为只泡沫内部有影响，对外部没有影响。那么，很自然地，这些场合就会产生野蛮的做法"
