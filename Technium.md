@@ -41,6 +41,7 @@ header-img: "img/alone.jpg"
   	- [《技术的本质》](https://book.douban.com/subject/25846075/) —— 关于技术产生和进化的系统性理论
 	
 	- [《从0到1》](https://book.douban.com/subject/26236449/) —— Peter Thiel关于世界运作的想法
+
 4. **IT风云史**
 
 	- [《浪潮之巅》](http://book.douban.com/subject/6709783/) —— "近一百多年来，总有一些公司很幸运地、有意识或无意识地站在技术革命的浪尖之上。在这十几年间，它们代表着科技的浪潮，直到下一波浪潮的来临。" BY 豆瓣
