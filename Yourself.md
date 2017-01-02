@@ -28,13 +28,13 @@ header-img: "img/autumn.jpg"
 	
 	- [《哥德尔、埃舍尔、巴赫》](http://book.douban.com/subject/1291204/) —— 11章《大脑和思维》/12章《心智和思维》—— 虽然整本书都贯串着对人类的思考模式/知识&&元知识模式等的交流、探讨。但显然在这两章之中，这种对大脑的探讨更纯粹。同时也检验了，是否可以理解大脑的顶层——心智——而不必先去理解那些它即依赖又不依赖的较低层次。大脑是更像一个原子，还是更像一个重正后的电子，或一个原子核，一个中子，一个夸克？自我意识是一种旁效现象吗？
   
-    - [《How To Solve It》](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) —— 如何解题的工具书。(推荐[刘伟鹏的评论](http://blog.csdn.net/pongba/article/details/2302905))
+    	- [《How To Solve It》](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) —— 如何解题的工具书。(推荐[刘伟鹏的评论](http://blog.csdn.net/pongba/article/details/2302905))
     
 	- [刘未鹏的豆列](http://book.douban.com/doulist/46003/)
     
 	- [《欲望之源》](http://book.douban.com/subject/1128662/) —— 如果你知道一个术语叫“进化滞后”，那么这本书强调的是从洞穴人到现代人的迅速。
   
-      > 变化之中，基因如何来不及与时俱进的故事。（BY 豆瓣书评）
+      		> 变化之中，基因如何来不及与时俱进的故事。（BY 豆瓣书评）
   
 	- [《思考，快与慢》](http://yuedu.163.com/source/37aa9847ae4e4c639daaea802718915b_4) —— 无意识的“系统1”依赖情感、记忆和经验迅速作出判断，但同时它固守“眼见即为事实”的原则，任由损失厌恶和乐观偏见之类的错觉引导我们作出错误的选择；有意识的“系统2”通过调动注意力来分析和解决问题，并作出决定，不易出错。但它老人家慢，而且经常走捷径，直接采纳系统1的直觉型判断结果
 	
