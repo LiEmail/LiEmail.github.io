@@ -44,6 +44,7 @@ header-img: "img/autumn.jpg"
 	
 	- [《这个时代的无知与傲慢》](http://book.douban.com/subject/11589947/) —— 听索罗斯如何定义他的开放社会框架
   
+  	-[《历代经济变革得失》](https://book.douban.com/subject/24851460/) —— 探寻中国两千多年来经济变革的得与失
 2. **人文**
 	
 	2.1) *纪实类文学*
